@@ -1,0 +1,28 @@
+.
+├── final_model.pt
+├── official_cnn.jsonl
+├── out.txt
+├── ReadMe.md
+├── Report.pdf
+├── scores.py
+├── shuffle_task.py
+├── task_1
+│   ├── 24-InterimSubmission.pdf
+│   ├── dataset.py
+│   ├── eval.py
+│   ├── eval.txt
+│   ├── main.py
+│   ├── model.py
+│   ├── performance.txt
+│   ├── __pycache__
+│   │   ├── dataset.cpython-310.pyc
+│   │   ├── model.cpython-310.pyc
+│   │   └── tools.cpython-310.pyc
+│   ├── README.md
+│   └── tools.py
+├── test_list.pt
+├── test_set.pt
+├── train.py
+└── validation.py
+
+2 directories, 23 files
