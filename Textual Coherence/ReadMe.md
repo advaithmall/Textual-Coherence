@@ -6,6 +6,8 @@
 ├── official_cnn.jsonl
 ├── Report.pdf
 ├── scores.py
+├── shuffle_val1.txt
+├── shuffle_val2.txt
 ├── shuffle_task.py
 ├── task_1
 │   ├── 24-InterimSubmission.pdf
@@ -88,4 +90,11 @@ python3 -W ignore scores.py
 
 python3 -W ignore shuffle_task.py
 
+```
+### Shuffle task:
+```
+Given a paragraph and 4 random shufflings of the paragraphs, output the most coherent paragraph.
+Open:
+shuffle_val1.txt 1000 samples: 86.9% accurate
+shuffle_val2.txt 2000 samples 88.6% accurate
 ```
